@@ -24,3 +24,8 @@ public class SignedOutServlet extends HttpServlet {
 	        	  resp.getWriter().println("Vous n'êtes pas encore connecté");
 	    }
 }
+
+public class testclass
+{
+
+}

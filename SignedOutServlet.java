@@ -36,3 +36,9 @@ public class testclass
 	}
 
 }
+
+/* session nay dung de tester des commits */
+
+public class1{}
+
+public class2{}

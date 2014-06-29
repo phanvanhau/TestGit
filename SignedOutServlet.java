@@ -27,5 +27,8 @@ public class SignedOutServlet extends HttpServlet {
 
 public class testclass
 {
-
+	public testclass()
+	{
+	
+	}
 }
